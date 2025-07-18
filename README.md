@@ -98,7 +98,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Create a pull request on the original repository.
 
 ## License
-This project is licensed under the [MIT License](https:#).
+This project is licensed under the [MIT License](https://github.com/AhmedTElsharkawt/lara-coffee/blob/main/LICENSE).
 
 ## UI
 
