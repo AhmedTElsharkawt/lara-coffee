@@ -104,7 +104,7 @@ This project is licensed under the [MIT License](https://github.com/AhmedTElshar
 
 ### Admin Page
 ##### Dashboard
-!["Dashboard"](/storage/assets/Admin/dashboardd.PNG)
+!["Dashboard"](/storage/assets/Admin/dashboard.PNG)
 ##### Customer Lists
 !["Customer Lists"](/storage/assets/Admin/customer_lists.PNG)
 ##### Transaction Lists
